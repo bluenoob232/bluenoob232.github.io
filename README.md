@@ -1,2 +1,1 @@
-### My GitHub Page
-Made with BlueBlue
+### 제 깃허브 사이트 입니다!
